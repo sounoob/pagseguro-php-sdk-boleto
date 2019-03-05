@@ -1,4 +1,4 @@
 # Biblioteca de integração de boleto do PagSeguro para PHP
 [![Total Downloads](https://poser.pugx.org/sounoob/pagseguro-php-sdk-boleto/d/total.svg)](https://packagist.org/packages/sounoob/pagseguro-php-sdk-boleto)
 [![Latest Stable Version](https://poser.pugx.org/sounoob/pagseguro-php-sdk-boleto/v/stable)](https://packagist.org/packages/sounoob/pagseguro-php-sdk-boleto)
-[![License](https://poser.pugx.org/sounoob/pagseguro-php-sdk-boleto/license)](https://packagist.org/packages/sounoob/pagseguro-php-sdk-boleto)
+[![License](https://poser.pugx.org/sounoob/pagseguro-php-sdk-boleto/license)](https://packagist.org/packages/sounoob/pagseguro-php-sdk-boleto) [![Join the chat at https://gitter.im/sounoob/pagseguro-php-sdk-boleto](https://badges.gitter.im/sounoob/pagseguro-php-sdk-boleto.svg)](https://gitter.im/sounoob/pagseguro-php-sdk-boleto?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
